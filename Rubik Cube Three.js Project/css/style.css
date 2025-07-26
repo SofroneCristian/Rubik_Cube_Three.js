@@ -1,0 +1,11 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif; /* Use the specified font */
+}
+
+canvas {
+    display: block;
+}
